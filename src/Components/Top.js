@@ -5,4 +5,5 @@ export default function Top(){
     <div className="picsDiv">
         <img src={ProfPic} className="profilePic" alt="MyPic"/>
     </div>
+    )
 }
